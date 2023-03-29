@@ -1,4 +1,4 @@
-Jenkins Github Integration
+Jenkins Github Integration POC
 
 1. The ability to pull code from GitHub is made possible through the Jenkins Git Plugin.
 2. The ability to trigger Jenkins build when Github commits occur is provided through the
