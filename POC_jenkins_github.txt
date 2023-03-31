@@ -11,3 +11,5 @@ Jenkins GitHub plugin.
     • Hyperlinks between Jenkins and GitHub are included on the summary page of you build.
     • Triggers performed by groking HTTP POSTS happen automatically.
     • Other plugins installed in Jenkins can take advantage of GitHub plugin APIs and features
+
+test push from GM
