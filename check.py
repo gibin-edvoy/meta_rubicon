@@ -1,2 +1,2 @@
-name1 = 'Rajalinga'
-number = 123456
+name1 = 'Rajalingam'
+number = 1234567
