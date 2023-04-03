@@ -1,2 +1,2 @@
 name1 = 'Rajalingam'
-name2 = 123456
+name2 = "final test"
