@@ -1,2 +1,2 @@
-name1 = 'Rajalingam R'
+name1 = 'Rajalingam'
 
