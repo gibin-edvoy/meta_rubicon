@@ -9,3 +9,4 @@ PassportEye
 boto3
 bs4
 urllib
+cv2
