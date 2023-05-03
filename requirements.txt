@@ -8,4 +8,4 @@ Pillow
 PassportEye
 boto3
 bs4
-numpy
+
